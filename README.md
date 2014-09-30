@@ -1,4 +1,4 @@
-py-affective
+PyAffective
 ============
 
 PyAffective is a stand alone affective module for intelligent agents.
